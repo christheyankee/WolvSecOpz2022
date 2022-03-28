@@ -3,6 +3,6 @@ I tried to write challenges that slowly increased in difficulty to entice people
 ## RSA With The Dogs
 [The PDF solution](RSA_With_The_Dogs_Writeup.pdf)
 ## EAV Secure Diffie Hellman
-[The PDF solution](EAV_Secure_Diffie_Hellman_.pdf)
+[The PDF solution](EAV_Secure_Diffie_Hellman.pdf)
 ## CPA Secure Diffie Hellman
-[The PDF solution](CPA_Secure_Diffie_Hellman_.pdf)
+[The PDF solution](CPA_Secure_Diffie_Hellman.pdf)
