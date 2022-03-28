@@ -1,3 +1,4 @@
 # CTF-Challenges
-
-Write ups explaining the math will be forthcoming later.
+I tried to write challenges that slowly increased in difficulty to entice people to try out the harder ones. I have listed the challenges in order of (in my opinion) ascending difficulty. 
+## RSA With The Dogs
+[a relative link](RSA_With_The_Dogs_Writeup.pdf)
