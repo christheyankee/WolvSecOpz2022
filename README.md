@@ -1,4 +1,4 @@
 # CTF-Challenges
 I tried to write challenges that slowly increased in difficulty to entice people to try out the harder ones. I have listed the challenges in order of (in my opinion) ascending difficulty. 
 ## RSA With The Dogs
-[a relative link](RSA_With_The_Dogs_Writeup.pdf)
+[The PDF solution](RSA_With_The_Dogs_Writeup.pdf)
